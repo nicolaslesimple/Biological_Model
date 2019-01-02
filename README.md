@@ -1,2 +1,2 @@
-# Biological_Model
+# Biological_Modeling_of_Neural_Network_Poroject
 This repository contains the several miniproject we had to do in the course of Biological_Modeling of Neural Networks of EPFL
